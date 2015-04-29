@@ -188,7 +188,8 @@
 
 
 ## Service: NAGIOS
-* NAGIOS_SERVER
+### MASTER
+* NAGIOS_SERVER (1)
 
 
 ## Service: OOZIE
